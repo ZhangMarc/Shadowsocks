@@ -1,7 +1,19 @@
 右键服务器 - 编辑服务器
+Shadowsocks：
 美国（洛杉矶节点）：
 
 服务器地址：45.63.48.145
 服务器端口：2018
 密码：654321
 加密方式：aes-256-cfb
+
+ShadowsocksR：
+美国（新泽西节点）：
+
+服务器地址：149.28.32.31
+服务器端口：16558
+密码：marczhang 
+加密：chacha20-ietf
+协议：auth_aes128_md5
+混淆：http_simple
+混淆参数：sna.powerschool.com
