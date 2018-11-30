@@ -1,5 +1,6 @@
 # Shadowsocks(SS) / ShadowsocksR(SSR) 说明 
-***Shadowsocks /ShadowsocksR/Proxifier/Free server***  
+***Shadowsocks /ShadowsocksR/Proxifier/Free server***
+**截止至2018/12/16日前，我们提供免费的SS+SSR服务器。以后不定时发放免费服务器，请多留意**
 **Proxifier**可以和**Shadowsocks**配合使用实现全局代理(请先下载**Shadowsocks.zip**文件并解压)  
 ****下载文件说明****  
 **SS和SSR穿透防火墙是第一位，抗干扰性强，而且对流量做了混淆，所有流量在通过防火墙的时候，基本上都被识别为普通流量**  
